@@ -113,7 +113,7 @@ while start_point < length_of_mRNA :
 
                 ## Lets print our protein
                 print("For this set of start and stop codons, your protein is ", protein)
-                
+                break
         ## If there was no end point present in the whole reading frame for a particular start codon
         if End_Point_present == False :
             print("This start codon has no stop codon, moving on")
