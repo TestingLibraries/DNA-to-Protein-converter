@@ -16,14 +16,15 @@ Sure! here are some sequences for you
 ### This sequence should give an error, no start sites
 5'AAAAAAAAAAAAAAAA3' 
 
-### This sequence Should give one start with a protein, and one start site that lacks a stop site
+### This sequence Should give one start site that has a stop site, and one start site that lacks a stop site
 3'TACCGCATAATACGGGTTTATTCCC5'
 
 ## What are the capabilities of this program?
 
-- can convert DNA to protein 
+- it can convert DNA to protein for you 
 - Finds stop sites that are within the reading frame of the start site AUG
 - Can convert multiple start sites and stop sites on the same mRNA to their own protein sequences
+- This program does not stop at one gene per DNA sequence, it scans for all the start and stop sites and shows their protein sequences
 
 ## Can you summarize this program for me?
 Okay!
