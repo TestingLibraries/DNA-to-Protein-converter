@@ -24,7 +24,7 @@ Sure! here are some sequences for you
 - it can convert DNA to protein for you 
 - Finds stop sites that are within the reading frame of the start site AUG
 - Can convert multiple start sites and stop sites on the same mRNA to their own protein sequences
-- This program does not stop at one gene per DNA sequence, it scans for all the start and stop sites and shows their protein sequences
+- This program does not stop at one gene per DNA sequence, it scans for all the start and stop sites and shows all their protein sequences
 
 ## Can you summarize this program for me?
 Okay!
