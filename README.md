@@ -1,5 +1,5 @@
 # DNA-to-Protein-converter
-A python program that can convert DNA to protein
+A python program that can convert genomic DNA to proteins
 
 ## How do i use this program?
 
